@@ -1,0 +1,10 @@
+Sample1	Training	1
+Sample2	Training	1
+Sample3	Training	1
+Sample4	Training	2
+Sample5	Training	2
+Sample6	Training	2
+Sample7	Test	2
+Sample8	Test	1
+Sample9	Validatie	1
+Sample10	Validatie	2

@@ -1,0 +1,14 @@
+Sample Name;Marker;Allele;Height;Size
+Sample1;Locus1;Allele1;Height1;Size1
+Sample1;Locus1;Allele2;Height2;Size2
+Sample1;Locus2;Allele3;Height3;Size3
+Sample1;Locus2;Allele4;Height4;Size4
+Sample1;Locus2;Allele5;Height5;Size5
+Sample1;Locus2;Allele6;Height6;Size6
+Sample2;Locus1;Allele1;Height7;Size7
+Sample2;Locus1;Allele2;Height8;Size8
+Sample2;Locus2;Allele3;Height9;Size9
+Sample2;Locus2;Allele4;Height10;Size10
+Sample2;Locus2;Allele5;Height11;Size11
+Sample2;Locus2;Allele6;Height12;Size12
+Sample2;Locus3;Allele7;Height13;Size13

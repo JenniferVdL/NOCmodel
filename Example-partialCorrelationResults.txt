@@ -1,0 +1,4 @@
+Feature	AbsCorrelation	vsFeats
+Feature1	0.916480264	[u'NOC', u'Feature1']
+Feature2	0.931684749	[u'NOC', u'Feature1', u'Feature2']
+Feature3	0.28429472	[u'NOC', u'Feature1', u'Feature2', u'Feature3']
